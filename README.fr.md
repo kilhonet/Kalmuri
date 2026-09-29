@@ -48,7 +48,7 @@ La version portable ne contient que l'exécutable : **l'enregistrement MP4 et l'
 
 ## Utilisation
 
-### Déroulement de base
+### Premiers pas
 
 1. Lancez Kalmuri. Une petite fenêtre s'ouvre et l'icône de Kalmuri apparaît dans la zone de notification.
 2. Sous **Capture**, choisissez quoi capturer. Par défaut : **Plein écran**.

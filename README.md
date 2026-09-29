@@ -48,7 +48,7 @@ The portable version contains only the executable, so **MP4 recording and WebP s
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 1. Run Kalmuri. A small window appears, and the Kalmuri icon shows up in the notification area.
 2. Under **Capture**, choose what to capture. The default is **Full Screen**.

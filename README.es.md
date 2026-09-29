@@ -48,7 +48,7 @@ La versión portátil solo contiene el ejecutable, por lo que **la grabación MP
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 1. Ejecute Kalmuri. Se abre una ventana pequeña y aparece el icono de Kalmuri en el área de notificación.
 2. En **Capturar**, elija qué capturar. Por defecto es **Pantalla completa**.

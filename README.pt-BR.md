@@ -50,7 +50,7 @@ A versão portátil contém só o executável, então **a gravação MP4 e o sal
 
 ## Como usar
 
-### Fluxo básico
+### Primeiros passos
 
 1. Execute o Kalmuri. Uma janela pequena se abre e o ícone do Kalmuri aparece na área de notificação.
 2. Em **Capture**, escolha o que capturar. O padrão é **Full Screen**.
