@@ -247,7 +247,7 @@ Kalmuri es **freeware**. Puede usarlo gratis y sin restricciones en cualquier lu
 ## Enlaces
 
 - Sitio web: <https://kilho.net/kalmuri>
-- Foro: <https://groups.google.com/g/kilhonet>
+- Foro: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

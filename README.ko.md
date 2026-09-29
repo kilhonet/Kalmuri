@@ -245,7 +245,7 @@ Windows 11 에는 `PrintScreen` 을 누르면 캡처 도구가 열리는 설정�
 ## 링크
 
 - 웹사이트: <https://kilho.net/kalmuri>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
