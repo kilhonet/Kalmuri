@@ -132,10 +132,10 @@ Choose **Window Control** and a dotted frame follows the element under the mouse
 Choose **WebBrowser** and Kalmuri opens a separate Edge window (Chrome if Edge isn't there). Open the page you want in that window and press `PrintScreen`: the whole page, including the part you'd have to scroll down to see, is saved as one image. With several tabs open, the tab you're looking at is captured. Closing that browser window switches back to **Full Screen**. Requires Windows 8 or later with Edge or Chrome installed.
 
 **Find the color code of something on screen**
-Choose **Color Picker** and the window shows the color and code under the mouse cursor in real time. Put the cursor where you want and press `PrintScreen`: that color is added to the top of the list and copied to the clipboard. Right-click the list and use **Format** to choose the copy format — **HEX** (`FF9933`) · **RGB** (`255, 153, 51`) · **Web** (`#FF9933`) · **TColor** (`$003399FF`) — and use the same menu to copy or delete entries.
+Choose **Color Picker** and the window shows the color and code under the mouse cursor in real time. Put the cursor where you want and press `PrintScreen`: that color is added to the top of the list and copied to the clipboard. Right-click the list and use **Format** to choose the copy format — **HEX** (`FF9933`) · **RGB** (`255, 153, 51`) · **Web** (`#FF9933`) · **TColor** (`$003399FF`) — and use **Copy** · **Delete** in the same menu to manage entries.
 
 **Record the screen as a video**
-Set **SaveTo** to **MP4** and press `PrintScreen` to start recording; the window shows that it's recording and the elapsed time. Press `PrintScreen` again to stop and save the MP4 file. Recording works with **Full Screen** and **Region**; while recording a region, `[REC]` and the time appear on the frame and the region is locked in place.
+Set **SaveTo** to **MP4** and press `PrintScreen` to start recording; the window shows **Recording** and the elapsed time. Press `PrintScreen` again to stop and save the MP4 file. Recording works with **Full Screen** and **Region**; while recording a region, `[REC]` and the time appear on the frame and the region is locked in place.
 
 **Record the sound from your PC too**
 Turn on **Recoder setting → Include sound** to record the sound playing on your PC (videos, games, notifications) along with the video. Turn it on when recording a lecture or video playback.

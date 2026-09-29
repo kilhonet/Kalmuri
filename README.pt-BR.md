@@ -134,10 +134,10 @@ Escolha **Window Control** e uma moldura pontilhada acompanha o elemento sob o c
 Escolha **WebBrowser** e o Kalmuri abre uma janela separada do Edge (Chrome, se não houver Edge). Abra nela a página que quiser e pressione `PrintScreen`: a página inteira, incluindo a parte que precisaria rolar para ver, é salva como uma única imagem. Com várias abas abertas, é capturada a aba que você está vendo. Fechar essa janela do navegador volta para **Full Screen**. Requer Windows 8 ou posterior com Edge ou Chrome instalado.
 
 **Quer descobrir o código de cor de algo na tela**
-Escolha **Color Picker** e a janela mostra em tempo real a cor e o código sob o cursor. Posicione o cursor e pressione `PrintScreen`: essa cor entra no topo da lista e é copiada para a área de transferência. Clique com o botão direito na lista → **Format** para escolher o formato da cópia — **HEX** (`FF9933`) · **RGB** (`255, 153, 51`) · **Web** (`#FF9933`) · **TColor** (`$003399FF`) — e use o mesmo menu para copiar ou apagar itens.
+Escolha **Color Picker** e a janela mostra em tempo real a cor e o código sob o cursor. Posicione o cursor e pressione `PrintScreen`: essa cor entra no topo da lista e é copiada para a área de transferência. Clique com o botão direito na lista → **Format** para escolher o formato da cópia — **HEX** (`FF9933`) · **RGB** (`255, 153, 51`) · **Web** (`#FF9933`) · **TColor** (`$003399FF`) — e use **Copy** · **Delete** no mesmo menu para organizar a lista.
 
 **Quer gravar a tela em vídeo**
-Ponha **SaveTo** em **MP4** e pressione `PrintScreen` para começar a gravar; a janela mostra que está gravando e o tempo decorrido. Pressione `PrintScreen` de novo para parar e salvar o arquivo MP4. A gravação funciona com **Full Screen** e **Region**; ao gravar uma região, `[REC]` e o tempo aparecem na moldura e a região fica travada.
+Ponha **SaveTo** em **MP4** e pressione `PrintScreen` para começar a gravar; a janela mostra **Recording** e o tempo decorrido. Pressione `PrintScreen` de novo para parar e salvar o arquivo MP4. A gravação funciona com **Full Screen** e **Region**; ao gravar uma região, `[REC]` e o tempo aparecem na moldura e a região fica travada.
 
 **Quer gravar também o som do PC**
 Ative **Recoder setting → Include sound** para gravar, junto com a imagem, o som tocado no seu PC (vídeos, jogos, notificações). Ative ao gravar uma aula ou a reprodução de um vídeo.
