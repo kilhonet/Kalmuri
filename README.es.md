@@ -231,15 +231,6 @@ Cada ajuste se guarda en cuanto lo cambia y se vuelve a usar en el próximo inic
 
 Kalmuri **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al hacer clic en **[Sí]** abre la página de descarga y cierra el programa. Las versiones nuevas se publican manualmente tras pruebas internas y se anuncian en la [página de Kalmuri](https://kilho.net/kalmuri). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
-**Historial de versiones**
-
-| Versión | Fecha | Cambios |
-|---|---|---|
-| 4.3.1 | 2026-09-28 | Más seguridad en la subida de imágenes, guardado WebP más fiable, inicio de grabación más fiable, capturas de pantalla y por arrastre más estables, los archivos existentes se conservan incluso con capturas rápidas seguidas, mejor prevención de ejecuciones duplicadas y mejor guardado del tamaño y la posición de la ventana de región |
-| 4.3.0 | 2026-08-28 | Captura de páginas web rehecha — más rápida y fiable con los últimos Edge · Chrome, páginas largas capturadas hasta el final en una imagen, detección automática del navegador instalado, captura precisa de la página que se ve entre varias ventanas y pestañas |
-| 4.2.7 | 2026-08-14 | Captura de páginas web y selección de la carpeta de guardado más fiables |
-| 4.2.6 | 2026-07-23 | Captura del navegador web más estable, región fija durante la grabación, indicador de grabación más nítido, mejor guardado del texto OCR y compatibilidad con el coreano y los caracteres especiales |
-
 ## Licencia
 
 Kalmuri es **freeware**. Puede usarlo gratis y sin restricciones en cualquier lugar —en la empresa, en casa, en organismos públicos o en centros educativos— y redistribuirlo libremente.

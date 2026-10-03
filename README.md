@@ -231,15 +231,6 @@ Every setting is saved as soon as you change it and used again at the next launc
 
 Kalmuri does **not** update itself. At startup it checks for a new version and shows a notice; clicking **[Yes]** opens the download page and closes the program. New versions are released manually after internal testing and announced on the [Kalmuri page](https://kilho.net/kalmuri). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 4.3.1 | 2026-09-28 | Stronger image upload security, more reliable WebP saving, more reliable recording start, more stable screen and drag capture, existing files kept safe even with rapid consecutive captures, improved duplicate-launch prevention and saving of the region window's size and position |
-| 4.3.0 | 2026-08-28 | Web page capture rebuilt — faster and more reliable with the latest Edge · Chrome, long pages captured to the end in one image, installed browser found automatically, the page you're viewing captured accurately among several windows and tabs |
-| 4.2.7 | 2026-08-14 | More reliable web page capture and save folder selection |
-| 4.2.6 | 2026-07-23 | More stable web browser capture, region locked while recording, sharper recording indicator, improved OCR text saving and Korean and special character compatibility |
-
 ## License
 
 Kalmuri is **freeware**. Use it for free without restriction anywhere — at work, at home, in government offices or at school — and redistribute it freely.
